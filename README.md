@@ -1,7 +1,7 @@
-# polldata
+#polldata
 polldata-testing backend
 
-# how to run file:
+#how to run file:
 mvn spring-boot:run 
 
 #database 
